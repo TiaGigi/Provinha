@@ -4,3 +4,4 @@ function Alerta() {
   }
   
   document.getElementById('Alerta').addEventListener('click', Alerta);
+
